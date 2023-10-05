@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Kumar
-- 👀 I’m interested in web development and react.
-- 🌱 I’m currently learning MERN and DataStructure.
+- 👀 I’m interested in backend development.
+- 🌱 I am currently working on Java and Spring boot.
 - 📫reach me at KUankit2016@gmail.com
 
 <!---
